@@ -21,9 +21,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg)
-```
 
+```
+![Image](http://s2.glbimg.com/nBsW9iMGHEMYJtADdQ9JdWXGP3k=/695x0/s.glbimg.com/po/tt2/f/original/2015/02/11/github-logo.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
