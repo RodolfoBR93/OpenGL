@@ -2,5 +2,5 @@
 
 
 
-##### Download Visual Studio Community
-[LINK](https://www.visualstudio.com/pt-br/downloads/)
+##### Download Visual Studio Community: [Clique aqui](https://www.visualstudio.com/pt-br/downloads/)
+
